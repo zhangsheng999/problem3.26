@@ -23,3 +23,30 @@
  
  
  ##### 以下展示不同系数r的情况下，z随时间变化的影响
+ 
+ [代码](https://github.com/zhangsheng999/1111/blob/master/1.txt)
+ 
+ ![](https://github.com/zhangsheng999/1111/blob/master/Figure_1.png?raw=true)
+ 
+ 
+ ##### Figure 3.16——相空间中的混沌lorenz模型
+ 
+ [代码](https://github.com/zhangsheng999/1111/blob/master/2.txt)
+ 
+ ![]()
+ 
+ ###### 可以看到与书中Figure3.16一致
+ 
+ 
+ ##### Figure 3.17——相空间中的混沌lorenz模型
+ 
+ [代码](https://github.com/zhangsheng999/1111/blob/master/3.txt)
+ 
+ 
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/raw/master/Homework-8/8-9.png)
+
+###### 可以看到与书中Figure3.17一致
+
+
+> * 致谢  吴雨桥同学 夏海峰同学提供的代码及帮助
+ 
