@@ -33,7 +33,7 @@
  
  [代码](https://github.com/zhangsheng999/1111/blob/master/2.txt)
  
- ![]()
+ ![](https://github.com/zhangsheng999/1111/blob/master/%E5%95%8A.png?raw=true)
  
  ###### 可以看到与书中Figure3.16一致
  
